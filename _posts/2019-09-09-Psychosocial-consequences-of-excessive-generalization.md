@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASD"
+title: "Psychosocial consequences of excessive generalization"
 author: "A.S.K.M Sayeef Uddin"
 categories: journal
 tags: [documentation,sample]
