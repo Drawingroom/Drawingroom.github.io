@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASD"
-author: "A.S.K.M Sayeef Uddin"
+author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
