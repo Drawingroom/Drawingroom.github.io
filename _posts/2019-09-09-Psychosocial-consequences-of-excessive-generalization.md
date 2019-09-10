@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "Psychosocial consequences of excessive generalization"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
