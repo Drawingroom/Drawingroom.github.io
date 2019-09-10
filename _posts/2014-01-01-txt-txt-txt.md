@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting Examples"
+title: "Txt txt txt"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
