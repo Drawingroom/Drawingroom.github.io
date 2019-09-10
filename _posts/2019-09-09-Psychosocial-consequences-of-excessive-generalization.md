@@ -4,7 +4,7 @@ title: "Psychosocial consequences of excessive generalization"
 author: "A.S.K.M Sayeef Uddin"
 categories: journal
 tags: [documentation,sample]
-image: LA.jpg
+image: Los.jpg
 ---
 
 “Sorry, man! Things made me sullen; so I was acting out.”
