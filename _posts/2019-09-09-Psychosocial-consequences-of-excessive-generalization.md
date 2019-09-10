@@ -4,7 +4,7 @@ title: "Psychosocial consequences of excessive generalization"
 author: "A.S.K.M Sayeef Uddin"
 categories: journal
 tags: [documentation,sample]
-image: wooden_texture_beam.jpg
+image: wooden.jpg
 ---
 
 “Sorry, man! Things made me sullen; so I was acting out.”
