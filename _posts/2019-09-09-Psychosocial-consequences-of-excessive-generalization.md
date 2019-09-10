@@ -2,7 +2,7 @@
 layout: post
 title: "Psychosocial consequences of excessive generalization"
 author: "A.S.K.M Sayeef Uddin"
-categories: journal
+categories: Philosophy article
 tags: [documentation,sample]
 image: cutting.jpg
 ---
