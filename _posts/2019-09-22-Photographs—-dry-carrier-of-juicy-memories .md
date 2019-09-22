@@ -4,7 +4,7 @@ title: "Photographs—dry carrier of juicy memories"
 author: "A.S.K.M Sayeef Uddin"
 categories: journal
 tags: [documentation,sample]
-image: wooden.jpg
+image: hboulevard.jpg
 ---
 
 We spend moments, we forget, no means how painstakingly we try to remember. Our minds can’t maintain our memories with the original exactness. The precision of our memories decreases as time advances. Unless you’re one of the 61 hyperthymesia patients, you can’t recall your memories precisely that took place years ago and didn’t carry any significance throughout years but now. Memories get altered, modified, and often broken, so does nature followed by the time. Texts, photographs, videos, etc. various mediums are decent to stash your memories for you not calling time a variable. Memories you carry in your head modify with time, so time belongs to a variable here. With time, your brain memories continue getting triteness which these tools don’t by keeping data constant regardless of time. In this essay, I would rather focus on photographs, not discussing much involving the other mediums, i.e. texts, but will stick a bunch of contrasts if there demands.
